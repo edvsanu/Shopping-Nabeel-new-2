@@ -1,0 +1,10 @@
+{
+  "name": "nabeel-shopping",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter ecommerce website for Nabeel Shopping",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "dotenv": "^16.4.7", "express": "^4.21.2", "razorpay": "^2.9.6" }
+}
